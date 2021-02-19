@@ -65,7 +65,7 @@
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
-* [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
+* [Google Scholar ](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)⚡[ 知网](https://kns.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFD&sfield=au&skey=%E8%92%8B%E5%B5%A9%E6%9E%97&code=41472729) 
 * [Hacknical](https://hacknical.com/HollowMan6/github)
 </details>
 
