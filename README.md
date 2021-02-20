@@ -55,7 +55,7 @@
 
 ***[点击这里可以💰️捐助我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
-**备用主页 for 🇨🇳： https://hollowman6.gitee.io**
+**备用镜像主页 for 🇨🇳： https://hollowman6.gitee.io**
 
 <details> 
   <summary>
