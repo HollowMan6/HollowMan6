@@ -51,6 +51,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
 
+✨ 如果你需要我协助你的 📄 **中<->英** 文件翻译，欢迎[通过邮箱联系我](mailto:hollowman@hollowman.ml)。持[CATTI三级笔译](https://hollowman6.github.io/#CATTI3T)证书上岗，保证质量。
+
+If you need help with translation between 📄 **Chinese and English**, please [contact me via Email](mailto:hollowman@hollowman.ml). The quality of my translation can be ensured with [CATTI Level 3 Translator](https://hollowman6.github.io/#CATTI3T) Certified.
+
 😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting or useful, you can* [*buy me a drink* ୧⍤⃝🥤 *or a meal* ୧⍤⃝🍨](https://hollowman6.github.io/fund.html). *THANKS for your sponsor. Every bit of DONATION will be the driving force for me to move forward.* ❤ 
 
 ***[点击这里可以💰️捐助我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
