@@ -53,12 +53,12 @@
 
 <details> 
   <summary>
-      <strong>Help With Translation 📄 协助翻译</strong>
+      <strong>Help with Translation 📄 协助翻译</strong>
   </summary>
 
-✨ 如果你需要我协助你的 📄 **中<->英** 文件翻译，欢迎[通过邮箱联系我](mailto:hollowman@hollowman.ml)。持[CATTI三级笔译](https://hollowman6.github.io/#CATTI3T)证书上岗，保证质量。
+* ✨ 如果你需要我协助你的 📄 **中<->英** 文件翻译，欢迎[通过邮箱联系我👦](mailto:hollowman@hollowman.ml)。持[CATTI三级笔译](https://hollowman6.github.io/#CATTI3T)证书上岗，保证质量。
 
-If you need help with translation between 📄 **Chinese and English**, please [contact me via Email](mailto:hollowman@hollowman.ml). The quality of my translation can be ensured with [CATTI Level 3 Translator](https://hollowman6.github.io/#CATTI3T) Certified.
+* If you need help with translation between 📄 **Chinese and English**, please [Contact Me via Email👦](mailto:hollowman@hollowman.ml). The quality of my translation can be ensured with [CATTI Level 3 Translator](https://hollowman6.github.io/#CATTI3T) Certified.
 
 </details>
 
