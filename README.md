@@ -62,7 +62,7 @@ If you need help with translation between 📄 **Chinese and English**, please [
 
 </details>
 
-😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting or useful, you can* [*buy me a drink* ୧⍤⃝🥤 *or a meal* ୧⍤⃝🍨](https://hollowman6.github.io/fund.html). *THANKS for your sponsor. Every bit of DONATION will be the driving force for me to move forward.* ❤ 
+😄 *If you find my projects interesting or useful, you can* [*buy me a drink* ୧⍤⃝🥤 *or a meal* ୧⍤⃝🍨](https://hollowman6.github.io/fund.html). *THANKS for your sponsor. Every bit of DONATION will be the driving force for me to move forward.* ❤ 
 
 ***[点击这里可以💰️捐助我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
