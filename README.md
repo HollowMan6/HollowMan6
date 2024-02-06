@@ -39,12 +39,12 @@ About ME | 关于我
 
 </a>
 
-🌱 Currently I'm an ***Erasmus Mundus*** **[SECCLO](https://secclo.eu/)** master student at [Aalto University](https://www.aalto.fi/en), 🇫🇮 & [Technical University of Denmark](https://www.dtu.dk/english), 🇩🇰.
+🌱 I'm an incoming doctoral researcher at the [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science), [Aalto University](https://www.aalto.fi/en), 🇫🇮. Currently I'm an ***Erasmus Mundus*** **[SECCLO](https://secclo.eu/)** master's student at [Aalto University](https://www.aalto.fi/en), 🇫🇮 & [Technical University of Denmark](https://www.dtu.dk/english), 🇩🇰.
 
 <a href="https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report/pkgs/container/lzu-auto-covid-health-report">
 <img align="right" src="https://hollowman6.github.io/img/LZU-Auto-COVID-Health-Report.svg" /></a>
 
-目前我是一名于 🇫🇮 [阿尔托大学](https://www.aalto.fi/en) 和 🇩🇰 [丹麦技术大学](https://www.dtu.dk/english) 就读的 ***欧盟伊拉斯谟世界计划*** **[SECCLO](https://secclo.eu/)项目**硕士研究生。
+我是 🇫🇮 [阿尔托大学](https://www.aalto.fi/en)[计算机科学系](https://www.aalto.fi/en/department-of-computer-science)的一名即将入学的博士研究生。目前我是一名于 🇫🇮 [阿尔托大学](https://www.aalto.fi/en) 和 🇩🇰 [丹麦技术大学](https://www.dtu.dk/english) 就读的 ***欧盟伊拉斯谟世界计划*** **[SECCLO](https://secclo.eu/)项目**硕士研究生。
 
 <a href="https://www.opensuse.org"><img src="https://static.opensuse.org/favicon.svg" width="20" alt="🦎" /></a>&nbsp; I'm also an [**openSUSE member**](https://en.opensuse.org/openSUSE:Members), check [**my profile**](https://en.opensuse.org/User:Hollowman) here.
 
