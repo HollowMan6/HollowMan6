@@ -57,9 +57,16 @@
 </p>
 
 <p>
-  <a href="http://hollowman6.github.io/">
-    <img align="right" src="https://hollowman6.github.io/img/dalle3.png" style="border-radius: 45px;" width="480">
+  <a href="https://www.credly.com/badges/74664f76-f7c4-4643-99ee-4178056a0ef4">
+    <img align="right" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150">
   </a>
+  <a href="https://www.credly.com/badges/d9dfdec9-b172-4930-9089-3ae9e63ffee7">
+    <img align="right" src="https://images.credly.com/size/680x680/images/754be0ef-eab1-408f-b66b-c2c32ab887c8/blob" width="150">
+  </a>
+  <a href="https://www.credly.com/badges/4046ba1a-6b6f-4440-aa4a-43d4bbbe41d2">
+    <img align="right" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="150">
+  </a>
+
   我是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
     href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>的博士研究生。
   同时也是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
@@ -169,7 +176,7 @@
         srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=EEEEEE&hide_border=true&hide=other,markdown&langs_count=30"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       /> -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other,markdown&langs_count=30&theme=transparent" width="350" alt="Statistics about Hollow Man" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other,markdown&langs_count=20&theme=transparent" width="350" alt="Statistics about Hollow Man" />
     <!-- </picture> -->
   </a>
 </p>
