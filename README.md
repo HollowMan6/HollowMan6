@@ -182,3 +182,7 @@
 </p>
 
 <h3 align="center">Thank you for visiting my GitHub :-) Wish you have a good time here! 🎉 Continue your visit ⤵️</h3>
+
+<p align="center">
+<a href='https://clustrmaps.com/site/1c5rb'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=d_V5rLmvvHv4lIiBW_mccWcDAbUVezDAiAb4ORv3NeM&co=ffffff&ct=808080'/></a>
+</p>
