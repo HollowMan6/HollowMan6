@@ -164,7 +164,7 @@
   </ul>
 </details>
 
-⬅️ Find more on the right ⭐ 右侧可以找到更多
+⬅️ Find more on the left ⭐ 左侧可以找到更多
 <p>
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other">
     <!-- <picture>
