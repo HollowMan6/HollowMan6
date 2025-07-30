@@ -50,10 +50,11 @@
 
 <p>
   🌱 I'm a doctoral researcher at the <a href="https://www.aalto.fi/en/department-of-computer-science">Department of
-    Computer Science</a>, <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮. I'm also an <strong>Erasmus
-    Mundus</strong> 🇪🇺 2022 batch alumni of the <a href="https://secclo.eu/">SECCLO</a> master program at <a
-    href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮 & <a href="https://www.dtu.dk/english">Technical
-    University of Denmark</a>, 🇩🇰.
+    Computer Science</a>, <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮.  In 2024, I completed the
+    <a href="https://secclo.eu/">SECCLO (Security and Cloud Computing)</a> <strong>Erasmus Mundus</strong> 🇪🇺 master’s program, at
+    <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮 and the <a href="https://www.dtu.dk/english">Technical University of Denmark</a>, 🇩🇰.
+    I received my bachelor's degree from the Specialized Class for Fundamentals and Theories of Computer Science at
+    <a href="https://www.lzu.edu.cn">Lanzhou Univerisity</a>, 🇨🇳 in 2022.
 </p>
 
 <p>
@@ -69,9 +70,10 @@
 
   我是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
     href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>的博士研究生。
-  同时也是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
-    href="https://www.dtu.dk/english">丹麦技术大学</a>的<strong> 🇪🇺 伊拉斯谟世界计划</strong><a
-    href="https://secclo.eu/">SECCLO</a>硕士研究生项目2022级校友。
+  2024年，我在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
+    href="https://www.dtu.dk/english">丹麦技术大学</a>完成了<strong> 🇪🇺 伊拉斯谟世界计划</strong>
+    <a href="https://secclo.eu/">SECCLO（安全与云计算）</a>硕士研究生项目。我于2022年
+    从 🇨🇳 <a href="https://www.lzu.edu.cn">兰州大学</a> 计算机科学与技术专业基地班获得学士学位。
 </p>
 
 <p>
