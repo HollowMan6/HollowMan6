@@ -73,7 +73,7 @@
   2024年，我在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
     href="https://www.dtu.dk/english">丹麦技术大学</a>完成了<strong> 🇪🇺 伊拉斯谟世界计划</strong>
     <a href="https://secclo.eu/">SECCLO（<i>安全与云计算</i>）</a>硕士研究生项目。我于2022年
-    从 🇨🇳 <a href="https://www.lzu.edu.cn">兰州大学</a> 计算机科学与技术专业基地班获得学士学位。
+    从 🇨🇳 <a href="https://www.lzu.edu.cn">兰州大学</a> <i>计算机科学与技术专业基地班</i>获得学士学位。
 </p>
 
 <p>
