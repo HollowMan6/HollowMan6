@@ -49,11 +49,11 @@
 <h3 align="center">About ME | 关于我</h3>
 
 <p>
-  🌱 I'm a doctoral researcher at the <a href="https://www.aalto.fi/en/department-of-computer-science">Department of
+  🌱 I'm now a doctoral researcher in the field of <i>AI infrastructure</i> at the <a href="https://www.aalto.fi/en/department-of-computer-science">Department of
     Computer Science</a>, <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮.  In 2024, I completed the
-    <a href="https://secclo.eu/">SECCLO (Security and Cloud Computing)</a> <strong>Erasmus Mundus</strong> 🇪🇺 master’s program, at
+    <a href="https://secclo.eu/">SECCLO (<i>Security and Cloud Computing</i>)</a> <strong>Erasmus Mundus</strong> 🇪🇺 master’s program, at
     <a href="https://www.aalto.fi/en">Aalto University</a>, 🇫🇮 and the <a href="https://www.dtu.dk/english">Technical University of Denmark</a>, 🇩🇰.
-    I received my bachelor's degree from the Specialized Class for Fundamentals and Theories of Computer Science at
+    I received my bachelor's degree from the <i>Specialized Class for Fundamentals and Theories of Computer Science</i> at
     <a href="https://www.lzu.edu.cn">Lanzhou Univerisity</a>, 🇨🇳 in 2022.
 </p>
 
@@ -68,24 +68,22 @@
     <img align="right" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="150">
   </a>
 
-  我是 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
-    href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>的博士研究生。
+  我目前是一位在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a><a
+    href="https://www.aalto.fi/en/department-of-computer-science">计算机科学系</a>从事<i>AI Infra</i>研究的博士生。
   2024年，我在 🇫🇮 <a href="https://www.aalto.fi/en">阿尔托大学</a>和 🇩🇰 <a
     href="https://www.dtu.dk/english">丹麦技术大学</a>完成了<strong> 🇪🇺 伊拉斯谟世界计划</strong>
-    <a href="https://secclo.eu/">SECCLO（安全与云计算）</a>硕士研究生项目。我于2022年
+    <a href="https://secclo.eu/">SECCLO（<i>安全与云计算</i>）</a>硕士研究生项目。我于2022年
     从 🇨🇳 <a href="https://www.lzu.edu.cn">兰州大学</a> 计算机科学与技术专业基地班获得学士学位。
 </p>
 
 <p>
-  <a href="https://www.opensuse.org">
+  <a href="https://en.opensuse.org/openSUSE:Members">
     <img src="https://static.opensuse.org/favicon.svg" width="20" alt="🦎">
-  </a>&nbsp; I'm also an <a href="https://en.opensuse.org/openSUSE:Members"><strong>openSUSE member</strong></a>,
-  check <a href="https://en.opensuse.org/User:Hollowman"><strong>my profile</strong></a> here.
+  </a>&nbsp; I'm also an <a href="https://en.opensuse.org/User:Hollowman"><strong>openSUSE member</strong></a>.
 </p>
 
 <p>
-  我也是一名 <a href="https://zh.opensuse.org/openSUSE:Members"><strong>openSUSE 会员</strong></a>，这里是<a
-    href="https://en.opensuse.org/User:Hollowman"><strong>我的资料（英文）</strong></a>。
+  我也是一名 <a href="https://zh.opensuse.org/openSUSE:Members"><strong>openSUSE 会员</strong></a>。
 </p>
 
 <p>
