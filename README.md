@@ -89,7 +89,7 @@
 <p>
   <a href="http://hollowman6.github.io/">
     <img align="right"
-      src="https://github-profile-trophy-roan.vercel.app/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
+      src="https://trophygh.kolioaris.xyz.vercel.app/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
       alt="Statistics about Hollow Man">
   </a>
 </p>
@@ -98,14 +98,14 @@
   <a href="http://hollowman6.github.io/">
     <!-- <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
+        srcset="https://github-stats-extended.vercel.app/api?username=hollowman6&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=EEEEEE&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
+        srcset="https://github-stats-extended.vercel.app/api?username=hollowman6&bg_color=EEEEEE&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       /> -->
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=transparent" alt="Statistics about Hollow Man" />
+      <img align="right" src="https://github-stats-extended.vercel.app/api?username=hollowman6&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=transparent" alt="Statistics about Hollow Man" />
     <!-- </picture> -->
   </a>
 </p>
@@ -166,17 +166,17 @@
 
 ⬅️ Find more on the left ⭐ 左侧可以找到更多
 <p>
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other">
+  <a href="https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other">
     <!-- <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=22272E&text_color=CDD9E5&hide_border=true&hide=other,markdown&langs_count=30"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=22272E&text_color=CDD9E5&hide_border=true&hide=other,markdown&langs_count=30"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=EEEEEE&hide_border=true&hide=other,markdown&langs_count=30"
+        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=EEEEEE&hide_border=true&hide=other,markdown&langs_count=30"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       /> -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other,markdown&langs_count=20&theme=transparent" width="350" alt="Statistics about Hollow Man" />
+      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other,markdown&langs_count=20&theme=transparent" width="350" alt="Statistics about Hollow Man" />
     <!-- </picture> -->
   </a>
 </p>
