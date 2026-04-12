@@ -62,7 +62,7 @@
     <img align="right" src="https://images.credly.com/size/680x680/images/754be0ef-eab1-408f-b66b-c2c32ab887c8/blob" width="150">
   </a>
   <a href="https://www.credly.com/badges/4046ba1a-6b6f-4440-aa4a-43d4bbbe41d2">
-    <img align="right" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="150">
+    <img align="right" src="https://hollowman6.github.io/img/badges/CKS-Badge.png" width="150">
   </a>
   <a href="https://pytorchconferenceeu2026.sched.com/event/2Juce/optimizing-reinforcement-learning-at-trillion-parameter-scale-songlin-jiang-aalto-university">
     <img align="right" src="https://images.credly.com/images/e0293277-c426-43b5-9ab1-57600ae6b70e/blob" width="150">
