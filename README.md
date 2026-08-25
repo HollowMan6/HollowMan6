@@ -89,7 +89,7 @@
 <p>
   <a href="http://hollowman6.github.io/">
     <img align="right"
-      src="https://trophy.benkou.dev/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
+      src="https://trophy.ryglcloud.net/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true"
       alt="Statistics about Hollow Man">
   </a>
 </p>
